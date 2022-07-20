@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-anchor_blog_dapp = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+anchor_blog_dapp = "56Wip2hmjkjVLAzqN8x7iiSc4hgUVL977pRFEaewo6CY"
 
 [registry]
 url = "https://anchor.projectserum.com"
